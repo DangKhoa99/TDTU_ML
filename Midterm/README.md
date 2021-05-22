@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Project Giữa kỳ<h1>
-  <h4>Môn: Nhập môn Học Máy<br>
-  (Introduction to Machine Learning)<h4>
+  <h1>Project Giữa kỳ</h1>
+  <h3>Môn: Nhập môn Học Máy</h3>
+  <h3>(Introduction to Machine Learning)</h3>
 </div>
 
 ##	Yêu cầu
