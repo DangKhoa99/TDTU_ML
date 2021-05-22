@@ -20,7 +20,8 @@ Vẫn sử dụng dữ liệu của bài toán 1. Viết chương trình sử d�
 -	Số lượng epoch khác nhau, batch size khác nhau 
 -	Sử dụng early stopping để giải quyết hiện tượng overfiting. Vẽ đồ thị thể hiện accuracy của tập train và tập validation.
 
-## Câu 3 (3 điểm): trình bày lý thuyết mạng Recurrent Neural Network.
+## Câu 3 (3 điểm): 
+Trình bày lý thuyết mạng Recurrent Neural Network.
 
 ## Lưu ý: 
 1)	Hai câu 1 và 2 trong cùng 1 chương trình 
