@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Project Giữa kỳ<h1>
-  <h4>Môn: Nhập môn Học Máy<h4>
-  <h4>(Introduction to Machine Learning)<h4>
+  <h4>Môn: Nhập môn Học Máy<br>
+  (Introduction to Machine Learning)<h4>
 </div>
 
 ##	Yêu cầu
@@ -24,5 +24,5 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=mix&area=&numAtt=&
 ##  Nộp bài
 Cho các kết quả vào thư mục, nén lại và nộp. Tên thư mục là Họ tên và MSSV
 -	Chương trình: file họ_tên_mssv.jpynb
-o	Nếu có nhiều chương trình thì bổ sung thông tin Model vào tên file
+-	Nếu có nhiều chương trình thì bổ sung thông tin Model vào tên file
 -	Slide: 
